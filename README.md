@@ -1,4 +1,4 @@
-# Telling-Stories-with-Data-Portfolio
+# Telling Stories with Data Portfolio
 Welcome to my public portfolio for the Telling Stories with Data class at CMU!
 https://lasau001.github.io/Telling-Stories-with-Data/.
 
