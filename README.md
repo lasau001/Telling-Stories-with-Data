@@ -15,3 +15,9 @@ Here is where all of my cool data visualizations will go!
 
 ## USDA Blog Post Chart
 <iframe id="datawrapper-chart-Mk33b" src="//datawrapper.dwcdn.net/Mk33b/1/" scrolling="no" frameborder="0" style="width: 0; min-width: 100% !important;" height="262"></iframe><script type="text/javascript">if("undefined"==typeof window.datawrapper)window.datawrapper={};window.datawrapper["Mk33b"]={},window.datawrapper["Mk33b"].iframe=document.getElementById("datawrapper-chart-Mk33b"),window.addEventListener("message",function(a){if("undefined"!=typeof a.data["datawrapper-height"])for(var b in a.data["datawrapper-height"])if("Mk33b"==b)window.datawrapper["Mk33b"].iframe.style.height=a.data["datawrapper-height"][b]+"px"});</script>
+
+## Street Cleaning Spending per Capita, 11 Surveyed Cities and San Francisco, FY 2016- 17 Chart
+<iframe width="600" height="371" seamless frameborder="0" scrolling="no" src="https://docs.google.com/spreadsheets/d/e/2PACX-1vThzn4CW1ipYfB39aJXZxYqFNLT-_DNkJKRGFr7K8lRBcND45VmYFsXmZz8DpDvtIf3d07_8uePukoT/pubchart?oid=1543048116&amp;format=interactive"></iframe>
+Reference: City and County of San Francisco Budget and Legislative Analyst's Office, "Policy Analysis Report". June 25, 2018.  Accessed November 20, 2018. https://sfbos.org/sites/default/files/BLA_Report_Street_Cleaning_Cost_Survey_062518.pdf (Links to an external site.)Links to an external site. 
+
+For the above chart, I extracted data from the above referenced "Policy Analysis Report." To do this, I used Tabula to be able to copy and paste data from the PDF into a Google Sheet. From there I inserted a Column Chart, not stacked, and reduced the series in the chart setup to "Spending Per Capita." I added both a chart title and subtitle 
