@@ -13,5 +13,5 @@ After years of being behind other industries, the cultural sector has not only b
 # Portfolio
 Here is where all of my cool data visualizations will go!
 
-##USDA Blog Post Chart
+## USDA Blog Post Chart
 <iframe id="datawrapper-chart-Mk33b" src="//datawrapper.dwcdn.net/Mk33b/1/" scrolling="no" frameborder="0" style="width: 0; min-width: 100% !important;" height="262"></iframe><script type="text/javascript">if("undefined"==typeof window.datawrapper)window.datawrapper={};window.datawrapper["Mk33b"]={},window.datawrapper["Mk33b"].iframe=document.getElementById("datawrapper-chart-Mk33b"),window.addEventListener("message",function(a){if("undefined"!=typeof a.data["datawrapper-height"])for(var b in a.data["datawrapper-height"])if("Mk33b"==b)window.datawrapper["Mk33b"].iframe.style.height=a.data["datawrapper-height"][b]+"px"});</script>
