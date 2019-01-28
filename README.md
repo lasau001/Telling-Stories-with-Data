@@ -30,4 +30,4 @@ _Reference_: Calibro, DensityDesign Research Lab and Studio. “RAWGraphs.” Ac
 
 ## General Government Debt, Total % of GDP, 2015
 <iframe src="https://data.oecd.org/chart/5smU" width="860" height="645" style="border: 0" mozallowfullscreen="true" webkitallowfullscreen="true" allowfullscreen="true"><a href="https://data.oecd.org/chart/5smU" target="_blank">OECD Chart: General government debt, Total, % of GDP, 2015</a></iframe>
-_Reference_: “General Government - General Government Debt - OECD Data.” theOECD. Accessed January 28, 2019. http://data.oecd.org/gga/general-government-debt.htm.
+_Reference_: “General Government - General Government Debt - OECD Data.” OECD. Accessed January 28, 2019. http://data.oecd.org/gga/general-government-debt.htm.
