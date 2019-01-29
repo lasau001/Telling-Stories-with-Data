@@ -50,7 +50,7 @@ Given some of the limitations of the [RAWGraphs](http://www.rawgraphs.io) tool, 
 Knowing that the general government debt-to-GDP ratio is an indicator of a government's financial liabilities, I thought about what would be helpful to know within a few seconds of examining a visualization. One question that struck me and I believe the novice viewer would find interesting is: Of these 35 countries, which have the highest amount of general government debt? With this question in mind I picked the circle packing chart because it allows you to compare values and sort them by size. When I did this, I liked the visual, but with 35 countries in the mix, I could see how a viewer's eyes might be unsure of where to look aside from the two or three largest circles in the center. This week we learned that the [color grey can help draw focus](http://www.visualisingdata.com/2015/01/make-grey-best-friend/) to relationships shown in other colors on a chart. I decided implement this concept so that the top ten countries with the highest percentages of general government debt to GDP could stand out in a cluster and be observed in a short amount of time. 
 
 _**References**_:
-*“RAWGraphs.” Accessed January 29, 2019. https://rawgraphs.io/.
-*“General Government - General Government Debt - OECD Data.” _OECD_. Accessed January 29, 2019. http://data.oecd.org/gga/general-government-debt.htm.
-*“Make Grey Your Best Friend.” _Visualising Data_, January 21, 2015. Accessed January 29, 2019. http://www.visualisingdata.com/2015/01/make-grey-best-friend/.
+* “RAWGraphs.” Accessed January 29, 2019. [https://rawgraphs.io/.](https://rawgraphs.io/)
+* “General Government - General Government Debt - OECD Data.” _OECD_. Accessed January 29, 2019. [http://data.oecd.org/gga/general-government-debt.htm.](http://data.oecd.org/gga/general-government-debt.htm)
+* “Make Grey Your Best Friend.” _Visualising Data_, January 21, 2015. Accessed January 29, 2019. [http://www.visualisingdata.com/2015/01/make-grey-best-friend/.](http://www.visualisingdata.com/2015/01/make-grey-best-friend/)
 
