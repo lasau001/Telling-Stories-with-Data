@@ -55,7 +55,13 @@ _**References**_:
 * “Make Grey Your Best Friend.” _Visualising Data_, January 21, 2015. Accessed January 29, 2019. [http://www.visualisingdata.com/2015/01/make-grey-best-friend/.](http://www.visualisingdata.com/2015/01/make-grey-best-friend/)
 
 ## Assignment 3 & 4: Critique by Design
+### Original Data Visualization:
 ![screen shot 2019-02-04 at 10 52 29 pm](https://user-images.githubusercontent.com/46798044/52252352-042edf00-28d0-11e9-9096-d2fe9c055381.png)
-_Source_: “Online information sources for cultural activities (non-advertisements)
-By race/ethnicity.” Accessed February 5, 2019. https://s28475.pcdn.co/wp-content/uploads/2017/02/CT17_Supporting_Data.pdf.
+_Source_: “Online information sources for cultural activities (non-advertisements) By race/ethnicity.” Accessed February 5, 2019. https://s28475.pcdn.co/wp-content/uploads/2017/02/CT17_Supporting_Data.pdf.
+
+**Why I Selected this Data Visualization:** Leaders in arts and culture in the United States are often trying to better understand how to reach, engage, and develop new audiences, as well as how to strengthen target marketing initiatives. In this same respect, solution-identifying conversations related to diversifying audiences have become a field-wide focus. With this in mind, I thought about LaPlaca Cohen's _Culture Tracks '17_ report, which highlights motivators, barriers, and participation behaviors for arts and culture. Thankfully this report's data is publically accessible. I selected the above visualization from the report because I felt that it connects with and contains information important to leaders engaged in these noted national conversations. Additionally, there were several things in the visualization that stood out to me as in need of improvement. 
+
+**Process:** 
+
+### Final Data Visualization
 <iframe id="datawrapper-chart-SH53p" src="//datawrapper.dwcdn.net/SH53p/1/" scrolling="no" frameborder="0" style="width: 0; min-width: 100% !important;" height="355"></iframe><script type="text/javascript">!function(){"use strict";window.addEventListener("message",function(a){if(void 0!==a.data["datawrapper-height"])for(var t in a.data["datawrapper-height"]){var e=document.getElementById("datawrapper-chart-"+t);e&&(e.style.height=a.data["datawrapper-height"][t]+"px")}})}();</script>
