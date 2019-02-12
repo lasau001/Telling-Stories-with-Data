@@ -9,7 +9,7 @@ Since 2015, the American theatre has experienced unprecendented turnover in both
 
 **Conflict**: In 2015, the retirement of many of these leaders led to a high number of executive searches, and presented both an opportunity and a challenge for organization's to hire new talent that better represents the communities they serve.
 
-**Resolution** As of February 2019, there have been shifts in leadership that reflect a concerted effort to increase female leaderships, however both gender and broader representation in the field are significantly lagging. 
+**Resolution**: As of February 2019, there have been shifts in leadership that reflect a concerted effort to increase female leaderships, however both gender and broader representation in the field are significantly lagging. 
 
 
 ## The Data 
