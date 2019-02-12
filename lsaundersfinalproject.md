@@ -6,7 +6,9 @@ Since 2015, the American theatre has experienced unprecendented turnover in both
 
 ### _Project Structure_
 **Setup**: For many years, the American theatre as a field (both professional union, professional non-union, and community) has been artistically and executively led by white men.
+
 **Conflict**: In 2015, the retirement of many of these leaders led to a high number of executive searches, and presented both an opportunity and a challenge for organization's to hire new talent that better represents the communities they serve.
+
 **Resolution** As of February 2019, there have been shifts in leadership that reflect a concerted effort to increase female leaderships, however both gender and broader representation in the field are significantly lagging. 
 
 
