@@ -1,10 +1,13 @@
 # My Final Project: Changes in American Theatre Leadership 
 
 ## Outline
-### Summary
+### _Summary_
 Since 2015, the American theatre has experienced unprecendented turnover in both its artistic and management leadership. During this time, artists, arts managers, and audiences have called upon those steering hiring operations, namely theatre's governing bodies, to ensure more equitable hiring processes. Using data captured by Bay Area theatre professionals, which has and continues to track artistic and managing director hires from 2015 through today, this project will show demographic shifts, specifically in gender and race, in American theatre leadership. 
 
-### Project Structure
+### _Project Structure_
+**Setup**: For many years, the American theatre as a field (both professional union, professional non-union, and community) has been artistically and executively led by white men.
+**Conflict**: In 2015, the retirement of many of these leaders led to a high number of executive searches, and presented both an opportunity and a challenge for organization's to hire new talent that better represents the communities they serve.
+**Resolution** As of February 2019, there have been shifts in leadership that reflect a concerted effort to increase female leaderships, however both gender and broader representation in the field are significantly lagging. 
 
 
 ## The Data 
