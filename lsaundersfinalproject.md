@@ -56,3 +56,8 @@ After realizing how terrible I am at drawing circles and lines, and how further 
 Now that I had these solid sketches, I sat down to storyboard. In this instance, I tried seeing how numerical figures, text, images, and data visualizations can be balanced out, because while I want one or a short series of visualizations to tell my story, how those visualizations are contextualized in Shorthand I fear will be ineffective if I rely solely on images alone. Where I landed with my storyboard is below, although there are still a few things I am unsure about - specifically the moments right before the visualizations are shared (cards 8 and 10): 
 
 ![Image of Storyboard](/Storyboard.JPG)
+
+### _Research Protocol and Findings_
+_Target Audience_: My target audience is individuals who are familiar and/or a fan of American theatre, but are not embedded in the field explicitly as an arts administrator or manager. Instead, my audience is made up of internal and external stakeholders, such as board and committee members, artists, funders, and audiences. 
+
+_Approach to Identifying Interviewees_: 
