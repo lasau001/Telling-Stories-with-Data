@@ -37,3 +37,9 @@ My approach to initializing my sketches was to look at some examples of other vi
 
 
 ![Image of Pie Chart Sketches](/Pie_Chart_Sketch_2.JPG)
+
+When looking at these questions a number of questions began to swirl in my head, like will the pies slices be easy to decipher at a quick glance? Does the completely filled pie work? Also, I realized if I wanted to show all of the different demographic changes in one place, there would just be a regular pie chart, which neither seemed fitting or interesting enough for the story I am hoping to tell. 
+
+I went back to the drawing board - literally - and thought about how a small number of colored icons would be striking against gray, and highlight small numbers of certain demographics in a way that might be more striking. I decided to draw out a number of stick figures to see what this might look like: 
+
+![Image of Pie Chart Sketches](/People_Sketch.JPG)
