@@ -73,9 +73,9 @@ I shared my final sketches via a [Google Form](https://docs.google.com/forms/d/e
 - Q5: Who do you think would find the above valuable?
 - Q6: Is there anything you would change or do differently with the above?
 
-**_Research Findings_**
+**_Research Findings_**:
 - Key takeaways seemed to be clear in terms of description of the chart and what the chart shows. Each person responded that even though they could see diversity is improving in arts leadership, white males are still dominating the field both artistically and executively. 
 - There was feedback from everyone, except the theatre artist, that I should clarify what "LORT" stands for. This is industry terminology and it is probably best that I do not use the acronym only. 
-- Everyone disliked the yellow that identified trans/nonbinary individuals of color  
-- Fortuneately, everyone seemed to think the visualization would be well suited for my target audience and each named at least two of my identified stakeholders.
-- Unfortunately, there were diverging opinions about the visualization overall. The two younger individuals gave feedback about color, but generally found the visualization to be clear and seemed to grasp what it was saying as a standalone. My Dad, on the other hand, found it confusing. For him, he needed "numbers and percentages for comparisons." I wondered if this was because I could not embed the interactive visualization from Infogram on my Google Form, and instead had to rely on still screenshots for the images. 
+- Everyone disliked the yellow that identified trans/nonbinary individuals of color.  
+- Fortunately, everyone seemed to think the visualization would be well suited for my target audience and each named at least two of my identified stakeholders.
+- Unfortunately, there were diverging opinions about the visualization overall. The two younger individuals gave feedback about color, but generally found the visualization to be clear and seemed to grasp what it was saying as a standalone. My Dad, on the other hand, found it confusing. For him, he needed "numbers and percentages for comparisons." I wondered if this was because I could not embed the interactive visualization from Infogram on my Google Form, and instead had to rely on still screenshots for the images. I tried following up with him on this but our schedules have not permitted that; I would like to do so before making changes to how numbers are conveyed in the visualization. This is also one of the reasons why I think it would be valuable to share these with two more individuals, including a second person over 50 years old. 
