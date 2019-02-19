@@ -79,3 +79,7 @@ I shared my final sketches via a [Google Form](https://docs.google.com/forms/d/e
 - Everyone disliked the yellow that identified trans/nonbinary individuals of color.  
 - Fortunately, everyone seemed to think the visualization would be well suited for my target audience and each named at least two of my identified stakeholders.
 - Unfortunately, there were diverging opinions about the visualization overall. The two younger individuals gave feedback about color, but generally found the visualization to be clear and seemed to grasp what it was saying as a standalone. My Dad, on the other hand, found it confusing. For him, he needed "numbers and percentages for comparisons." I wondered if this was because I could not embed the interactive visualization from Infogram on my Google Form, and instead had to rely on still screenshots for the images. I tried following up with him on this but our schedules have not permitted that; I would like to do so before making changes to how numbers are conveyed in the visualization. This is also one of the reasons why I think it would be valuable to share these with two more individuals, including a second person over 50 years old. 
+
+
+### _Wireframes_
+My digital outline can be previewed in Shorthand by clicking [here](https://preview.shorthand.com/XyowMPkvejQ85zGg).
