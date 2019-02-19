@@ -1,6 +1,6 @@
 # My Final Project: Changes in American Theatre Leadership 
 
-## Outline
+## Part I: Outline
 ### _Summary_
 Since 2015, the American theatre has experienced unprecendented turnover in both its artistic and management leadership. During this time, artists, arts managers, and audiences have called upon those steering hiring operations, namely theatre's governing bodies, to ensure more equitable hiring processes. Using data captured by Bay Area theatre professionals, which has and continues to track artistic and managing director hires from 2015 through today, this project will show demographic shifts, specifically in gender and race, in American theatre leadership. 
 
@@ -25,3 +25,6 @@ Jones, Kevin. “Database Shows Time to Diversify Theater Leadership Is Now.” 
 To complete my final project I will be using the digital storytelling platform [Shorthand](https://shorthand.com). This platform will allow me to incorporate multimedia content and other resources to strengthen the story that supports and informs my data visualizations. I will create at least one visualization that shows the arc of the story detailed in my outline above. To do this, I will use tools we have explored in class, such as RawGraphs and Datawrapper, and potentially learn how to use other resources depending on whether or not it is determined that animated or geospatial visualizations will best show changes in American theatre leadership. 
 
 Before commiting to a specific tool(s) to create my visualizations, I will research ways in which similar data in other fields has been visualized, and will also use found examples of well-executed visualizations as inspiration for my wireframes. Next, I will sketch said wireframes, and insert them into a preliminary storyboard to see if they support what I want my audience to take away. The wireframes will be shared with three individuals for feedback, and will be altered to strengthen the final story. Once the wireframes and storyboard are finalized, I will build my visualizations and then finally input all of my content into Shorthand. 
+
+
+## Part II: Sketches, Wireframes, and Storyboards
