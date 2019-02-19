@@ -33,3 +33,7 @@ My approach to initializing my sketches was to look at some examples of other vi
 
 
 ![Image of Pie Chart Sketches](/Pie_Chart_Sketch_1.JPG)
+
+
+
+![Image of Pie Chart Sketches](/Pie_Chart_Sketch_2.JPG)
