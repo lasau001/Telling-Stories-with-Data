@@ -64,7 +64,7 @@ Now that I had these solid sketches, I sat down to storyboard. In this instance,
 
 The first person was a colleague of mine who is a theatre artist; the second was one of my close friends who happens to be a huge musical theatre fan, but who also has experience in both grant-making and grant writing; the third was my Dad - because he is a straight, white male who has worked as a leader in the corporate sector (aviation) for over thirty years, who is a regular cultural consumer, a cultural donor, and is over 70 - AKA he is your typical chair for a nonprofit board. Each of these individuals brought the broad sense of diversity I was hoping to get from my feedback. 
 
-**_Interview Script_**
+**_Interview Script_**:
 I shared my final sketches via a [Google Form](https://docs.google.com/forms/d/e/1FAIpQLSfv-H7Na4WewtEN9g91V5NPxnvHlfJATOQYBj_irzO8CkvXgQ/viewform?usp=sf_link). It included the following questions:
 - Q1: Can you describe what you think the above are?
 - Q2: Do the above tell you something? If yes, what?
