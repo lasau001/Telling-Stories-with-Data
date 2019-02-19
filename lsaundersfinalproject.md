@@ -30,4 +30,6 @@ Before commiting to a specific tool(s) to create my visualizations, I will resea
 ## Part II: Sketches, Wireframes, and Storyboards
 ###_Sketches_
 My approach to initializing my sketches was to look at some examples of other visualizations of equity, diversity, and inclusion in both arts and culture and more broadly. Interestingly, a lot of pie charts are used for such visual representations. The database where this information comes from took a different approach, using stacked bar charts in one of its tabs. We have discussed in class, and in others at Heinz, how pie charts are not always the best choice for a visualization, but there was something about "who gets the slice of the pie" that had a nice ring to it when I thought about hiring practices. With this in mind, I started sketching out pie charts, which you can see below: 
+
+
 ![Image of Pie Chart Sketches](/Pie_Chart_Sketch_1.JPG)
