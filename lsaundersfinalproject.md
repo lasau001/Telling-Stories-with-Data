@@ -58,17 +58,17 @@ Now that I had these solid sketches, I sat down to storyboard. In this instance,
 ![Image of Storyboard](/Storyboard.JPG)
 
 ### _Research Protocol and Findings_
-_Target Audience_: My target audience is individuals who are familiar and/or a fan of American theatre, but are not embedded in the field explicitly as an arts administrator or manager. Instead, my audience is made up of internal and external stakeholders, such as board and committee members, artists, funders, and audiences. 
+**_Target Audience_**: My target audience is individuals who are familiar and/or a fan of American theatre, but are not embedded in the field explicitly as an arts administrator or manager. Instead, my audience is made up of internal and external stakeholders, such as board and committee members, artists, funders, and audiences. 
 
-_Approach to Identifying Interviewees_: Given who I had identified as my target audience, I felt my interviewees should be representatives of those stakeholders in some way. Additionally, I wanted some diversification in terms of age, gender, and race to see if both personal experience and identity would affect interpretation and/or reception of the visual information. I also  thought about individuals I knew who fit the above and would turnaround feedback to me that was both honest and complete within a short amount of time. I identified three individuals, although I would like to ask two more I think as I continue to work through this.
+**_Approach to Identifying Interviewees_**: Given who I had identified as my target audience, I felt my interviewees should be representatives of those stakeholders in some way. Additionally, I wanted some diversification in terms of age, gender, and race to see if both personal experience and identity would affect interpretation and/or reception of the visual information. I also  thought about individuals I knew who fit the above and would turnaround feedback to me that was both honest and complete within a short amount of time. I identified three individuals, although I would like to ask two more I think as I continue to work through this.
 
 The first person was a colleague of mine who is a theatre artist; the second was one of my close friends who happens to be a huge musical theatre fan, but who also has experience in both grant-making and grant writing; the third was my Dad - because he is a straight, white male who has worked as a leader in the corporate sector (aviation) for over thirty years, who is a regular cultural consumer, a cultural donor, and is over 70 - AKA he is your typical chair for a nonprofit board. Each of these individuals brought the broad sense of diversity I was hoping to get from my feedback. 
 
-_Interview Script_
+**_Interview Script_**
 I shared my final sketches via a [Google Form](https://docs.google.com/forms/d/e/1FAIpQLSfv-H7Na4WewtEN9g91V5NPxnvHlfJATOQYBj_irzO8CkvXgQ/viewform?usp=sf_link). It included the following questions:
-Q1: Can you describe what you think the above are?
-Q2: Do the above tell you something? If yes, what?
-Q3: Is there anything about the above that you find confusing?
-Q4: Is there other information you wish the above included?
-Q5: Who do you think would find the above valuable?
-Q6: Is there anything you would change or do differently with the above?
+- Q1: Can you describe what you think the above are?
+- Q2: Do the above tell you something? If yes, what?
+- Q3: Is there anything about the above that you find confusing?
+- Q4: Is there other information you wish the above included?
+- Q5: Who do you think would find the above valuable?
+- Q6: Is there anything you would change or do differently with the above?
