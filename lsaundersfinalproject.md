@@ -38,13 +38,13 @@ My approach to initializing my sketches was to look at some examples of other vi
 
 ![Image of Pie Chart Sketches](/Pie_Chart_Sketch_2.JPG)
 
-When looking at these sketches a number of questions began to swirl in my head, like will the pies slices be easy to decipher at a quick glance? Does the completely filled pie work? Also, I realized if I wanted to show all of the different demographic changes in one place, there would just be a regular pie chart, which neither seemed fitting or interesting enough for the story I am hoping to tell. 
+When looking at these sketches a number of questions began to swirl in my head, like will the pie slices be easy to decipher at a quick glance? Does the completely filled pie work? Also, I realized if I wanted to show all of the different demographic changes in one place, there would just be a regular pie chart, which neither seemed fitting or interesting enough for the story I am hoping to tell. 
 
 I went back to the drawing board - literally - and thought about how a small number of colored icons would be striking against gray, and might highlight small numbers of certain demographics in a way that could be more striking. I decided to draw out a number of stick figures to see what this might look like: 
 
 ![Image of Pie Chart Sketches](/People_Sketch.JPG)
 
-After realizing how terrible I am at drawing circles and lines, and how further pursuing this idea would require a lot more of that activity, I almost gave up. My friend Katie, another Data Viz student, came to my rescue pointed out that this would be much easier to draft in Infogram - and she was right! With Infogram's tools I was able to come up with the following two visualizations: 
+After realizing how terrible I am at drawing circles and lines, and how further pursuing this idea would require a lot more of that activity, I almost gave up. My friend Katie, another student, came to my rescue by pointing out that this would be much easier to draft in Infogram - and she was right! With Infogram's tools I was able to come up with the following two visualizations: 
 
 <div class="infogram-embed" data-id="d1b3a2b1-944e-441f-961c-845784ca6452" data-type="interactive" data-title="TSWD - Wireframe AD"></div><script>!function(e,t,s,i){var n="InfogramEmbeds",o=e.getElementsByTagName("script")[0],d=/^http:/.test(e.location)?"http:":"https:";if(/^\/{2}/.test(i)&&(i=d+i),window[n]&&window[n].initialized)window[n].process&&window[n].process();else if(!e.getElementById(s)){var r=e.createElement("script");r.async=1,r.id=s,r.src=i,o.parentNode.insertBefore(r,o)}}(document,0,"infogram-async","https://e.infogram.com/js/dist/embed-loader-min.js");</script><div style="padding:8px 0;font-family:Arial!important;font-size:13px!important;line-height:15px!important;text-align:center;border-top:1px solid #dadada;margin:0 30px"><a href="https://infogram.com/d1b3a2b1-944e-441f-961c-845784ca6452" style="color:#989898!important;text-decoration:none!important;" target="_blank">TSWD - Wireframe AD</a><br><a href="https://infogram.com" style="color:#989898!important;text-decoration:none!important;" target="_blank" rel="nofollow">Infogram</a></div>
 
