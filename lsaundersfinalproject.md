@@ -76,12 +76,12 @@ I shared my final sketches via a [Google Form](https://docs.google.com/forms/d/e
 - Unfortunately, there were diverging opinions about the visualization overall. The two younger individuals gave feedback about color, but generally found the visualization to be clear and seemed to grasp what it was saying as a standalone. My Dad, on the other hand, found it confusing. For him, he needed "numbers and percentages for comparisons." I wondered if this was because I could not embed the interactive visualization from Infogram on my Google Form, and instead had to rely on still screenshots for the images. I tried following up with him on this but our schedules have not permitted that; I would like to do so before making changes to how numbers are conveyed in the visualization. This is also one of the reasons why I think it would be valuable to share these with two more individuals, including a second person over 50 years old. 
 
 
-## **MY FINAL PROJECT: AUDIENCE ANALYSIS AND PERSONAL REFLECTION**
+## **MY FINAL DATA STORY: AUDIENCE ANALYSIS AND PERSONAL REFLECTION**
 ### **_Audience Analysis_**
-Building on my targeted audience development during the research phase of this project, I developed certain personas. These personas can be overviewed by clicking the links below: 
+Building on my targeted audience development during the research phase of this project, I developed three personas that I am telling my story to. I built personas using Hubspot, which can be overviewed by clicking the links below: 
 1. [**Elaine Holt**: Program Officer at a local foundation that funds the arts](https://www.hubspot.com/make-my-persona?persona=-LZ_T1CextPH2aBeqhc6)
 2. [**George Peralta**: Actor and Director who supplements income working as a CRM Client Service Representative](https://www.hubspot.com/make-my-persona?persona=-LZbtNhMCXQUvQSk7m6w)
-3. [**Declan Boyle**: Vice President of Sales for a small corporation, who serves as Board Chair for a local theatre company (https://www.hubspot.com/make-my-persona?persona=-LZbtNhMCXQUvQSk7m6w)
+3. [**Declan Boyle**: Vice President of Sales for a small corporation, who serves as Board Chair for a local theatre company] (https://www.hubspot.com/make-my-persona?persona=-LZbtNhMCXQUvQSk7m6w)
 
 _References:_ 
 
