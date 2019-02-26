@@ -22,7 +22,7 @@ To complete my final project I will be using the digital storytelling platform [
 Before commiting to a specific tool(s) to create my visualizations, I will research ways in which similar data in other fields has been visualized, and will also use found examples of well-executed visualizations as inspiration for my wireframes. Next, I will sketch said wireframes, and insert them into a preliminary storyboard to see if they support what I want my audience to take away. The wireframes will be shared with three individuals for feedback, and will be altered to strengthen the final story. Once the wireframes and storyboard are finalized, I will build my visualizations and then finally input all of my content into Shorthand. 
 
 
-## **MY PROCESS: SKETCHES, STORYBOARDS, & RESEARCH PROTOCOL AND FINDINGS**
+## **MY PROCESS: SKETCHES, STORYBOARDS, RESEARCH PROTOCOL, AND FINDINGS**
 ### _Sketches and Storyboard_
 My approach to initializing my sketches was to look at some examples of other visualizations of equity, diversity, and inclusion in both arts and culture and more broadly. Interestingly, a lot of pie charts are used for such visual representations. The database where this information comes from took a different approach, using stacked bar charts in one of its tabs. We have discussed in class, and in other spaces at Heinz, how pie charts are not always the best choice for a visualization, but there was something about "who gets the slice of the pie" that had a nice ring to it when I thought about hiring practices. With this in mind, I started sketching out pie charts, which you can see below: 
 
@@ -76,7 +76,12 @@ I shared my final sketches via a [Google Form](https://docs.google.com/forms/d/e
 - Unfortunately, there were diverging opinions about the visualization overall. The two younger individuals gave feedback about color, but generally found the visualization to be clear and seemed to grasp what it was saying as a standalone. My Dad, on the other hand, found it confusing. For him, he needed "numbers and percentages for comparisons." I wondered if this was because I could not embed the interactive visualization from Infogram on my Google Form, and instead had to rely on still screenshots for the images. I tried following up with him on this but our schedules have not permitted that; I would like to do so before making changes to how numbers are conveyed in the visualization. This is also one of the reasons why I think it would be valuable to share these with two more individuals, including a second person over 50 years old. 
 
 
-## **FINAL PROJECT: AUDIENCE ANALYSIS, PERSONAL REFLECTION, AND MY FINAL DATA STORY**
+## **MY FINAL PROJECT: AUDIENCE ANALYSIS AND PERSONAL REFLECTION**
+### **_Audience Analysis_**
+Building on my targeted audience development during the research phase of this project, I developed certain personas. These personas can be overviewed by clicking the links below: 
+1. [**Elaine Holt**: Program Officer at a local foundation that funds the arts](https://www.hubspot.com/make-my-persona?persona=-LZ_T1CextPH2aBeqhc6)
+2. [**George Peralta**: Actor and Director who supplements income working as a CRM Client Service Representative](https://www.hubspot.com/make-my-persona?persona=-LZbtNhMCXQUvQSk7m6w)
+3. [**Declan Boyle**: Vice President of Sales for a small corporation, who serves as Board Chair for a local theatre company (https://www.hubspot.com/make-my-persona?persona=-LZbtNhMCXQUvQSk7m6w)
 
 _References:_ 
 
