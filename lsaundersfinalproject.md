@@ -81,7 +81,7 @@ I shared my final sketches via a [Google Form](https://docs.google.com/forms/d/e
 Building on my targeted audience development during the research phase of this project, I developed three personas that I am telling my story to. I built personas using Hubspot, which can be overviewed by clicking the links below: 
 1. [**Elaine Holt**: Program Officer at a local foundation that funds the arts](https://www.hubspot.com/make-my-persona?persona=-LZ_T1CextPH2aBeqhc6)
 2. [**George Peralta**: Actor and Director who supplements income working as a CRM Client Service Representative](https://www.hubspot.com/make-my-persona?persona=-LZbtNhMCXQUvQSk7m6w)
-3. [**Declan Boyle**: Vice President of Sales for a small corporation, who serves as Board Chair for a local theatre company] (https://www.hubspot.com/make-my-persona?persona=-LZbtNhMCXQUvQSk7m6w)
+3. [**Declan Boyle**: Vice President of Sales for a small corporation, who serves as Board Chair for a local theatre company](https://www.hubspot.com/make-my-persona?persona=-LZbtNhMCXQUvQSk7m6w)
 
 _References:_ 
 
