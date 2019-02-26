@@ -78,10 +78,13 @@ I shared my final sketches via a [Google Form](https://docs.google.com/forms/d/e
 
 ## **MY FINAL DATA STORY: AUDIENCE ANALYSIS AND PERSONAL REFLECTION**
 ### **_Audience Analysis_**
-Building on my targeted audience development during the research phase of this project, I developed three personas that I am telling my story to. I built personas using Hubspot, which can be overviewed by clicking the links below: 
+Building on my targeted audience development during the research phase of this project, I developed three personas to better understand who it is that I am telling my story to. I built these personas using Hubspot; each of them can be viewed in detail by clicking the links below: 
 1. [**Elaine Holt**: Program Officer at a local foundation that funds the arts](https://www.hubspot.com/make-my-persona?persona=-LZ_T1CextPH2aBeqhc6)
 2. [**George Peralta**: Actor and Director who supplements income working as a CRM Client Service Representative](https://www.hubspot.com/make-my-persona?persona=-LZbtNhMCXQUvQSk7m6w)
 3. [**Declan Boyle**: Vice President of Sales for a small corporation, who serves as Board Chair for a local theatre company](https://www.hubspot.com/make-my-persona?persona=-LZbuEw4LZYe1Wv7mor_)
+
+To make my final story for the above personas, I further refined the data visualizations. First, I thought about the "Declan Boyle" persona, and how he would look to see what quantifiable information he could quickly gauge from a chart or graph. I also thought about how this is a tech-user, but might not be a person who regularly encounters interactive charts. Given this, I changed my chart from a straight-forward pictorial chart to a pictorial size-comparison. This made it easier to see change over time moving from outgoing to incoming positions, and allowed me to add numbers to the bottom of each of the icons to indicate how many of a certain type of gender and/or race made up the whole. I also turned on the "interactivity hints" for the chart, so that when someone hovers their mouse over the chart, it invites the user to "interact." Considering both "Elaine Holt" and "George Peralta," I also modifed the colors to make them more visible, and to ensure that they were not reflecting stereotypical color associations, such as "pink" for female and "blue" for male. 
+
 
 _References:_ 
 
