@@ -47,9 +47,10 @@ I went back to the drawing board - literally - and thought about how a small num
 After realizing how terrible I am at drawing circles and lines, and how further pursuing this idea would require a lot more of that activity, I almost gave up. My friend Katie, another student, came to my rescue by pointing out that this would be much easier to draft in Infogram - and she was right! With Infogram's tools I was able to come up with the following visualizations: 
 
 ![Image of Artistic Directors' Change Visualization](/AD_Outgoing.png)
+![Image of Artistic Directors' Change Visualization](/AD_Incoming.png)
 
-
-
+![Image of Managing Directors' Change Visualization](/Outgoing_MD.png)
+![Image of Managing Directors' Change Visualization](/MD_Incoming.png)
 
 
 
